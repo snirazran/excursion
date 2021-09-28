@@ -1,0 +1,36 @@
+body {
+  background-color: black;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.header-title {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: normal;
+  font-size: 50px;
+  color: #ffffff;
+}
+
+.link a {
+  color: aquamarine;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.regular-title {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 300;
+  font-size: 42px;
+  color: #ffffff;
+}
+
+.grey-p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 21px;
+  color: gray;
+}
+
+.footer {
+  text-align: right;
+  color: gray;
+}
